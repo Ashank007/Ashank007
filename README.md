@@ -2,14 +2,14 @@
 <h3 align="center">A passionate Engineer and Developer from Bharat</h3>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/medakshchoudhary/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/Ashank007/count.svg" alt="visitor badge"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medakshchoudhary" alt="medakshchoudhary" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashank007" alt="Ashank007" /></a> </p>
 
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashank007&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=medakshchoudhary&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Ashank007&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashank007&theme=chartreuse-dark"></p>
 
 <h3 align="left">Languages and Tools:</h3>
