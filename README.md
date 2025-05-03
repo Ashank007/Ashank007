@@ -1,4 +1,4 @@
-<h1 align="center">Jai Shree Ram 😊🙏, I'm Ashank Gupta</h1>
+<h1 align="center">I'm Ashank Gupta</h1>
 <h3 align="center">A passionate Engineer and Developer from Bharat</h3>
 
 <p align="center"><b>Visitor's Count</b></p>
