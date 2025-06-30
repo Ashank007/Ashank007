@@ -1,6 +1,10 @@
 # Hi , I'm Ashank Gupta
 **A passionate Software Engineer from India**
 
+- 🧠 Building real AI systems — not just demos. From LLMs and offline agents to full-stack infra and automation, I do it all.
+- 🛠️ I build frameworks, not just projects — tools others build on.
+- 🔗 All code. All logic. No limits.
+
 Email Me 👉 ✉️ **ashankgupta.tech@gmail.com** For Collaboration/Project or Anything Else.
 
 - 💬 **Ask me about:** Collaboration, Tech Support
